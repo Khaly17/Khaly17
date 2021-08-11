@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **Khaly17/Khaly17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Salut, je suis Khaly DIENG,eleve Inginieur en Transmission des Donnees et Securite de l'Information passionne par le partage d'experiences et connaissances.
+Aujourd'hui je suis développeur web juniors et en meme temps youtubeur, tu peux me contacter sur diengkhaly17@gmail.com,devenir membre de ma chaine youtube pour ne plus jamais louper mes tutos.
