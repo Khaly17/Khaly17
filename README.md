@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cover](https://github.com/Khaly17/Khaly17/blob/master/2.jpg)
+![Cover](https://github.com/Khaly17/Khaly17/master/2.jpg)
