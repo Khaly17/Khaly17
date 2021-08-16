@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Salut,
-Je suis Khaly DIENG,Eleve Ingenieur en Transmission des Donnees et Securite de l'Information passionné par les Algorithmes,le Developpement,le cloud et la securite.
-Je suis a la quete du savoir,je suis prenneur de toute sorte d'information,mais surtout j'adore partager mes connaissances.Car la connaissance partagee n'est jamais perdue et elle grandit plus, surtout quand on est informaticien, vous pouvez me contacter sur diengkhaly17@gmail.com ou bien devenez membre sur ma chaine youtube:
+Salut j'espere que vous allez bien,
+
+Je suis Khaly DIENG,Elève Ingénieur en Transmission des Donnees et Securite de l'Information passionné par les Algorithmes,le Développement,le cloud et la sécurité.
+Je suis en quête du savoir,je suis prenneur de toute sorte d'information,mais surtout j'adore partager mes connaissances car je sais bien que la connaissance partagée n'est jamais perdue et elle grandit plus, surtout quand on est informaticien, vous pouvez me contacter sur diengkhaly17@gmail.com ou bien devenez membre sur ma chaine youtube:
 https://www.youtube.com/channel/UCKTKV0z6U78Ml3N9puAmGyQ pour ne plus jamais louper mes tutos.
