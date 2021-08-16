@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Aujourd'hui je suis développeur web juniors et en meme temps youtubeur, tu peux me contacter sur diengkhaly17@gmail.com ou devenir membre de ma chaine youtube:https://www.youtube.com/channel/UCKTKV0z6U78Ml3N9puAmGyQ pour ne plus jamais louper mes tutos.
+Salut,
+Je suis Khaly DIENG,Eleve Ingenieur en Transmission des Donnees et Securite de l'Information passionné par les Algorithmes,le Developpement,le cloud et la securite.
+Je suis a la quete du savoir,je suis prenneur de toute sorte d'information,mais surtout j'adore partager mes connaissances.Car la connaissance partagee n'est jamais perdue et elle grandit plus, surtout quand on est informaticien, vous pouvez me contacter sur diengkhaly17@gmail.com ou bien devenez membre sur ma chaine youtube:
+https://www.youtube.com/channel/UCKTKV0z6U78Ml3N9puAmGyQ pour ne plus jamais louper mes tutos.
