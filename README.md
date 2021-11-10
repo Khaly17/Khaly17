@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I hope you're doing well,
+Hi 👋, I hope you're doing well ,
 
-I am Khaly DIENG, Student Engineer in Data Transmission and Information Security passionate about Algorithms, Development, cloud and security. I am in search of knowledge, I am a taker of any kind of information, but especially I love to share my knowledge because I know that the shared knowledge is never lost and it grows more, especially when you are a computer scientist, you can contact me on diengkhaly17@gmail.com or become a member on my youtube channel: https://www.youtube.com/channel/UCKTKV0z6U78Ml3N9puAmGyQ to never miss my tutorials.
+I am Khaly DIENG, Student Engineer in Data Transmission and Information Security passionate about Algorithms, Development, cloud and security ✨.
