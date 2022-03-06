@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 Hi 👋, I hope you're doing well ,
 
 I am Khaly DIENG, Student Engineer in Data Transmission and Information Security passionate about Algorithms, Development, cloud and security ✨.
+
+<img src="https://github-readme-stats.vercel.app/api?username=Khaly17&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
