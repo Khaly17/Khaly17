@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔒🔑 Protect, 🛡️ Preserve, 💼 Prosper: The Triad of Information Security
-![snake gif](https://github.com/Khaly17/Khaly17/blob/output/github-contribution-grid-snake.gif)
