@@ -16,8 +16,6 @@
 
 💬 Ask me about **Java,DotNet, Angular, React... or anything [here](https://github.com/Khaly17/Khaly17/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
  
 <div align="center"> 
@@ -47,8 +45,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/Khaly17/Khaly17/blob/output/github-contribution-grid-snake.svg" />
-  
+    
   <br/><br/>
 </div>
 
@@ -61,3 +58,4 @@
 <br/><br/>
 
 <hr/>
+![snake gif](https://github.com/Khaly17/Khaly17/blob/output/github-contribution-grid-snake.gif)
