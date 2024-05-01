@@ -1,10 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khaly+DIENG!;" />
 </h1>
 
-<h3 align="center">A passionate software developer, IoT and IT Security from Senegal - Dakar</h3>
+<h3 align="center">A passionate developer from Senegal - Dakar</h3>
 
 <br/>
 
@@ -58,4 +57,3 @@
 <br/><br/>
 
 <hr/>
-![snake gif](https://github.com/Khaly17/Khaly17/blob/output/github-contribution-grid-snake.gif)
